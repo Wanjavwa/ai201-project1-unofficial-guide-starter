@@ -1,5 +1,7 @@
 # The Unofficial Guide — Project 1
 
+📹 **[Watch the demo video](https://www.loom.com/share/781064d9760f45baac6b536b9625b218)**
+
 A Retrieval-Augmented Generation (RAG) system that answers plain-language
 questions about **campus housing at Maple State University** using real
 student-generated knowledge — dorm reviews, off-campus apartment warnings,
